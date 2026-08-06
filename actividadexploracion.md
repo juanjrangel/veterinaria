@@ -2,7 +2,6 @@
 
 **Objetivo del Proyecto:** Diseñar una base de datos relacional para gestionar una clínica veterinaria con servicios y tamaño dinámico, enfocada en animales domésticos y el ciclo completo de atención en salud animal.
 
----
 
 ## 1. Conceptos Importantes y Relevantes en la Temática
 
@@ -39,6 +38,6 @@ Para entender cómo la industria resuelve este problema, analizamos dos platafor
     * *Flujo de atención:* Destaca por su "Pizarra electrónica" (Whiteboard), una vista que muestra en qué etapa de la clínica está cada mascota (espera, cirugía, recuperación). Esto sugiere que nuestra base de datos debe incluir una tabla o atributo de estado de flujo de trabajo continuo.
     * *Integración financiera:* Relaciona de manera impecable el historial clínico con el carrito de cobro. Si un veterinario anota una vacuna en el historial, el sistema inserta ese servicio automáticamente en la pre-factura. Esto requiere un diseño relacional fuerte entre las entidades `Tratamiento_Medico` y `Detalle_Factura`.
 
----
+
 **Conclusión para el Diseño de la Base de Datos:**
 La exploración evidencia que nuestro modelo relacional debe priorizar la **modularidad**. Deberemos crear una estructura que separe claramente a los actores (Humanos y Animales), el catálogo de ofertas (Servicios e Inventario configurables) y el núcleo transaccional (Historia Médica y Facturación).
