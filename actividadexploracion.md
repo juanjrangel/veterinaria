@@ -42,4 +42,3 @@ Para entender cómo la industria resuelve este problema, analizamos dos platafor
 ---
 **Conclusión para el Diseño de la Base de Datos:**
 La exploración evidencia que nuestro modelo relacional debe priorizar la **modularidad**. Deberemos crear una estructura que separe claramente a los actores (Humanos y Animales), el catálogo de ofertas (Servicios e Inventario configurables) y el núcleo transaccional (Historia Médica y Facturación).
-```eof
