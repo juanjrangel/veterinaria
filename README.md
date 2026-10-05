@@ -3,10 +3,11 @@
 Este repositorio contiene los entregables del proyecto de la asignatura de Bases de Datos I. El objetivo central es diseñar una base de datos relacional altamente estructurada, normalizada y escalable para gestionar el funcionamiento de una clínica veterinaria con **servicios dinámicos** y un ecosistema de atención en salud animal.
 
 ## Integrantes del Grupo
-*   [Nombre del Integrante 1] - [Código/ID si aplica]
-*   [Nombre del Integrante 2] - [Código/ID si aplica]
-*   [Nombre del Integrante 3] - [Código/ID si aplica]
-*(Nota: Si hubo cambios en los integrantes respecto a la primera entrega, estos son los autores correspondientes a la etapa de Modelo Relacional y Normalización).*
+*   Isabella Plata - 2243568
+*   Mateo Leiva - 2230339
+*   Juan Morera - 2243581
+*   Diego Quintero - 2243593
+*   Juan José Rangel - 2243554
 
 ## Estructura del Repositorio
 
