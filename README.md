@@ -24,7 +24,7 @@ Contiene la evolución técnica del proyecto hacia el diseño lógico.
 *   **Informe de Normalización:** Documento que justifica paso a paso cómo se aplicó la Primera, Segunda y Tercera Forma Normal (1FN, 2FN, 3FN) para eliminar redundancias y prevenir anomalías (disponible en el archivo `Informe_Normalizacion.md`).
 
 ---
-### 📁 `Base de Datos SQL/` (Tercera Entrega)**
+### 📁 `Base de Datos SQL/` (Tercera Entrega)
 
 Contiene la implementación física del sistema en la base de datos relacional.
 
