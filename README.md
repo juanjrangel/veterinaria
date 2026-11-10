@@ -24,4 +24,9 @@ Contiene la evolución técnica del proyecto hacia el diseño lógico.
 *   **Informe de Normalización:** Documento que justifica paso a paso cómo se aplicó la Primera, Segunda y Tercera Forma Normal (1FN, 2FN, 3FN) para eliminar redundancias y prevenir anomalías (disponible en el archivo `Informe_Normalizacion.md`).
 
 ---
-*Desarrollado para la asignatura de Bases de Datos I.*
+### 📁 **Base de Datos SQL/ (Tercera Entrega)**
+
+Contiene la implementación física del sistema en la base de datos relacional.
+
+* **Script DDL (Creación de Base de Datos):** Definición formal de las tablas, claves primarias (PK), claves foráneas (FK), restricciones de integridad y tipos de datos en SQL.
+* **Script DML (Población de Datos y Consultas):** Insert de datos de prueba para verificar las relaciones y scripts con las consultas requeridas para el funcionamiento del sistema.
